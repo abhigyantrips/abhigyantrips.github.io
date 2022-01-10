@@ -8,6 +8,6 @@ Hello! https://abhigyantrips.dev/ is my portfolio website for the time being - I
 
 Since you've made it this far, I'd like to thank the peeps over at [Mashup Template](http://www.mashup-template.com/)/[Unsplash](https://www.unsplash.com/) for their epic CSS templates. I've left a [`components.html`](./components.html) file in the repo, where you can have a look at all the available elements in the template.
 
-There's also a moving background function - `movingBackgroundImage()` - in the [JS Script](./main.70a66962.js), if you'd like to use it.
+There's also a moving background function - `movingBackgroundImage()` - in the [JS Script](./js/scripts.js), if you'd like to use it.
 
 See ya!

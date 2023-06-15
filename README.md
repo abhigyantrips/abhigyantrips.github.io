@@ -1,3 +1,5 @@
 # [Abhigyan Trips](https://abhigyantrips.dev/)
 
-This will just redirect to my GitHub homepage, for now.
+![Website Screenshot](/assets/screenshot.png)
+
+A temporary links page. Made completely with [Phind](https://www.phind.com/), the AI search engine (using the [GPT-4](https://openai.com/gpt-4) model).
